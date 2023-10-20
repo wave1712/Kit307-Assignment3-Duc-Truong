@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{55E85AFD-CF0C-A11D-6642-8E65D3DBCC78}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerFollow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerFollow.cs" Line="19" Column="43" />
+      <File FileName="Assets/Shader/CustomShaderController.cs" Line="18" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kit307 aver1" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Shader" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6a9f1056-a5e1-4053-b5d7-7e20d78d21e5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
